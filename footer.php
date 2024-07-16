@@ -109,7 +109,7 @@
             </li>
           </ul>
         </div>
-        <div class="copyright"> &copy 2022 <a href="" target="_blank"> ZeroConsult</a>
+        <div class="copyright"> &copy<a href="#" target="_blank"> Aniket Dhatrak</a>
         </div>
       </div>
     </div>
